@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/62772038/163299412-c1144211-a99a-40e9-8630-6d1d256fe156.gif"  />
+  <img height="300"  width="1000" src="https://user-images.githubusercontent.com/62772038/163299412-c1144211-a99a-40e9-8630-6d1d256fe156.gif"  />
 </div>
 
 ###
